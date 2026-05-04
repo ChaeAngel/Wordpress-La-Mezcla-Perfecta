@@ -1,6 +1,6 @@
 # 🎨 Diseño y Maquetación Web: WordPress
 
-Este proyecto documenta mi colaboración en el diseño visual y la experiencia de usuario de un sitio web desarrollado en la plataforma **WordPress**. Mi enfoque principal fue mejorar la estética y la interactividad del sitio para ofrecer una navegación más fluida. Tuve limitaciones en el diseño por el cliente.
+Este proyecto documenta mi colaboración en el diseño visual y la experiencia de usuario de un sitio web desarrollado en la plataforma **WordPress**. Mi enfoque principal fue mejorar la estética y la interactividad del sitio para ofrecer una navegación más fluida. Diseño adaptado fielmente a los requerimientos y manual de identidad proporcionados por el cliente
 
 ### 🛠️ Herramientas y Tecnologías
 *   **CMS:** WordPress.
