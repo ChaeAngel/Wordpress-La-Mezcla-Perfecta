@@ -23,4 +23,5 @@ A continuación, se presentan capturas que muestran el diseño y el funcionamien
 ---
 
 > 🔗 **Enlace al proyecto:** [Visita La Mezcla Perfecta aquí](https://www.lamezclaperfecta.com/)
+
 *Proyecto realizado como parte de una colaboración en desarrollo web.*
